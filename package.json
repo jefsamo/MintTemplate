@@ -1,7 +1,7 @@
 {
   "name": "candy-machine-mint",
   "version": "0.1.0",
-  "homepage": "https://shopeyin5.github.io/MintTemplate",
+  "homepage": "https://shopeyin5.github.io/MintTemplate/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.0.0",
